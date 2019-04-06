@@ -1,2 +1,6 @@
 nooch
+<<<<<<< HEAD
 ใครๆ ก็เล่น เพราะใช้ mobile เล่น
+=======
+play shopee quiz
+>>>>>>> e78368bbb88b4daf693c0f5df00b8e34d14bc3ca
