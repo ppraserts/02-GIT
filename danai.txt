@@ -1,3 +1,7 @@
 Hey Danai
+<<<<<<< HEAD
+Your father name is Too
+=======
 
 Art don't like Dang.
+>>>>>>> c216e4daf9fd5ebe0e5f6d8bb44ea2c94fb9aa6d
